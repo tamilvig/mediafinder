@@ -22,4 +22,4 @@ COPY . .
 ENV PYTHONUNBUFFERED=1
 
 # Define entrypoint; update 'bot.py' to your actual entry script
-CMD ["python", "bot.py"]
+CMD ["python", "your_main_script.py"]
